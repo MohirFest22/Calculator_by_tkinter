@@ -114,7 +114,6 @@ plus_btn = Button(text="+",width="5",height="2",fg="limegreen",bg="#28231d",comm
 plus_btn.place(relx=0.77,rely=0.8)
 
 
-
 rqavs_btn = Button(text="(",width="5",height="2",fg="limegreen",bg="#28231d",command=lqavs)
 rqavs_btn.place(relx=0.02,rely=0.9)
 
