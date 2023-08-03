@@ -88,7 +88,6 @@ kop_btn = Button(text="x",width="5",height="2",fg="limegreen",bg="#28231d",comma
 kop_btn.place(relx=0.77,rely=0.6)
 
 
-
 num4_btn = Button(text="4",width="5",height="2",fg="limegreen",bg="#28231d",command=num4)
 num4_btn.place(relx=0.02,rely=0.7)
 
