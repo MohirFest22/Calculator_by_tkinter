@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Aug  3 22:11:53 2023
-
-@author: User
+Date: 03.08.2023 -- day/month/year
+Author: Sunnatjon Arslonov
+Program name: Calculator
 """
 
 from tkinter import *
