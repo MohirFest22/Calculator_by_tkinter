@@ -75,7 +75,6 @@ div_btn = Button(text="÷",width="5",height="2",fg="limegreen",bg="#28231d",comm
 div_btn.place(relx=0.77,rely=0.5)
 
 
-
 num7_btn = Button(text="7",width="5",height="2",fg="limegreen",bg="#28231d",command=num7)
 num7_btn.place(relx=0.02,rely=0.6)
 
